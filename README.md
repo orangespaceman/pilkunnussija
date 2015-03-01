@@ -2,9 +2,9 @@
 
 References:
 
- - For who the bell tolls - David Marsh
- - Gwynne's grammar - N.M. Gwynne
- - Strunk's guide to style - William Strunk
+ - [For who the bell tolls](http://www.theguardian.com/books/2013/oct/23/bell-tolls-grammatical-perfection-marsh-review) - David Marsh
+ - [Gwynne's grammar](http://www.nmgwynne.net/gwynnesgrammar.htm) - N.M. Gwynne
+ - [The Elements of style](http://en.wikipedia.org/wiki/The_Elements_of_Style) - William Strunk
 
 --------------
 
