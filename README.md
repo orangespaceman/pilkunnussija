@@ -216,6 +216,7 @@ Eight parts of speech:
  - use a comma if you could use 'and' to separate adjectives in a statement: "bright red car"; "tall, dark, handsome stranger"
  - use for a non-restrictive clause - when the words make a separate clause within the clause, and could be left out without changing the overall meaning (i.e. where they perform the same function as brackets)
  - don’t use in a restrictive clause - when the information is vital to the clause
+ - don't join two independent clauses with a comma
 
 ### Oxford commas
 
@@ -225,8 +226,9 @@ Eight parts of speech:
 ### Colons and semicolons
 
  - use a colon where the first part introduces a proposition that is resolved by the second
- - use a semicolon between two related statements when a colon is too much and a comma is too little
  - use a colon to indicate the start of a list, and a semicolons in between 
+ - use a semicolon between two related statements when a colon is too much and a comma is too little
+ - use a semicolon to where two related and grammatically complete sentences are joined without a conjunction
  
 ### Brackets
 
